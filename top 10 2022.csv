@@ -1,0 +1,11 @@
+trackname,artistname,artistcount,releasedyear,releasedmonth,releasedday,spotifyplaylists,spotifycharts,streams,appleplaylists,applecharts,deezerplaylists,deezercharts,shazamcharts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+Circles,"Post Malone",1,2019,8,30,19664,16,2132335812,391,73,633,3,37,120,,Major,70,59,75,24,0,9,4
+"Levitating (feat. DaBaby)","Dua Lipa, DaBaby",2,2020,3,27,15894,8,1802514301,198,13,544,0,60,103,F#,Minor,70,92,83,1,0,7,6
+"No Role Modelz","J. Cole",1,2014,12,9,21164,36,1791000570,80,65,476,0,14,100,A#,Minor,70,47,52,30,0,6,33
+Dakiti,"Bad Bunny, Jhay Cortez",2,2020,10,30,11215,21,1763363713,189,166,525,9,25,110,E,Minor,73,14,57,40,0,11,5
+"When I Was Your Man","Bruno Mars",1,2012,12,5,2420,11,1661187319,0,0,806,0,0,145,,Major,60,43,27,94,0,14,4
+"Die For You","The Weeknd",1,2016,11,24,2483,59,1647990401,68,21,24,0,259,134,C#,Minor,59,51,52,9,0,15,7
+"Before You Go","Lewis Capaldi",1,2019,11,1,8327,24,1608045237,205,130,625,0,25,112,D#,Major,45,19,60,63,0,9,6
+"Every Breath You Take - Remastered 2003","The Police",1,1983,1,6,22439,19,1593270737,211,74,929,0,129,117,C#,Major,82,73,45,54,0,7,3
+"Save Your Tears","The Weeknd",1,2020,3,20,12688,13,1591223784,197,115,112,0,200,118,,Major,68,61,82,2,0,50,3
+"Kiss Me More (feat. SZA)","SZA, Doja Cat",2,2021,4,9,15867,0,1575467011,382,65,497,0,12,111,G#,Major,77,74,66,30,0,13,3
